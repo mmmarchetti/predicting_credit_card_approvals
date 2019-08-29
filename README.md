@@ -1,1 +1,1 @@
-# predicting_credit_card_approvals
+# Predicting Credit Card Approvals
